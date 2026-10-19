@@ -1,0 +1,19 @@
+# gradle
+.gradle/
+build/
+out/
+run/
+# ide
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+bin/
+eclipse/
+# secrets
+*.key
+.env

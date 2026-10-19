@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=true": {
+      "model": "thelastplayer:block/lab_lamp_on"
+    },
+    "lit=false": {
+      "model": "thelastplayer:block/lab_lamp_off"
+    }
+  }
+}

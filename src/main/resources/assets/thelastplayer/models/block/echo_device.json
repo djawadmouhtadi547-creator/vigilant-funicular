@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "thelastplayer:block/echo_device_top",
+    "front": "thelastplayer:block/echo_device_front",
+    "side": "thelastplayer:block/echo_device_side"
+  }
+}

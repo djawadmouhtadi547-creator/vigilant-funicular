@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+issueTrackerURL="https://github.com/YOUR_NAME/TheLastPlayer/issues"
+
+[[mods]]
+modId="thelastplayer"
+version="${file.jarVersion}"
+displayName="THE LAST PLAYER"
+description='''
+A psychological horror and drama story about ECHO, a small floating glass creature who is afraid of being left alone.
+'''
+
+[[dependencies.thelastplayer]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.thelastplayer]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"

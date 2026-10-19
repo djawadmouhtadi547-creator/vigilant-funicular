@@ -1,0 +1,260 @@
+{
+  "variants": {
+    "facing=north,log=0": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 0
+    },
+    "facing=north,log=1": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 0
+    },
+    "facing=north,log=2": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 0
+    },
+    "facing=north,log=3": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 0
+    },
+    "facing=north,log=4": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 0
+    },
+    "facing=north,log=5": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 0
+    },
+    "facing=north,log=6": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 0
+    },
+    "facing=north,log=7": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 0
+    },
+    "facing=north,log=8": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 0
+    },
+    "facing=north,log=9": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 0
+    },
+    "facing=north,log=10": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 0
+    },
+    "facing=north,log=11": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 0
+    },
+    "facing=north,log=12": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 0
+    },
+    "facing=north,log=13": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 0
+    },
+    "facing=north,log=14": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 0
+    },
+    "facing=north,log=15": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 0
+    },
+    "facing=east,log=0": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 90
+    },
+    "facing=east,log=1": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 90
+    },
+    "facing=east,log=2": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 90
+    },
+    "facing=east,log=3": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 90
+    },
+    "facing=east,log=4": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 90
+    },
+    "facing=east,log=5": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 90
+    },
+    "facing=east,log=6": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 90
+    },
+    "facing=east,log=7": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 90
+    },
+    "facing=east,log=8": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 90
+    },
+    "facing=east,log=9": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 90
+    },
+    "facing=east,log=10": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 90
+    },
+    "facing=east,log=11": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 90
+    },
+    "facing=east,log=12": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 90
+    },
+    "facing=east,log=13": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 90
+    },
+    "facing=east,log=14": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 90
+    },
+    "facing=east,log=15": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 90
+    },
+    "facing=south,log=0": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 180
+    },
+    "facing=south,log=1": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 180
+    },
+    "facing=south,log=2": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 180
+    },
+    "facing=south,log=3": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 180
+    },
+    "facing=south,log=4": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 180
+    },
+    "facing=south,log=5": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 180
+    },
+    "facing=south,log=6": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 180
+    },
+    "facing=south,log=7": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 180
+    },
+    "facing=south,log=8": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 180
+    },
+    "facing=south,log=9": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 180
+    },
+    "facing=south,log=10": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 180
+    },
+    "facing=south,log=11": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 180
+    },
+    "facing=south,log=12": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 180
+    },
+    "facing=south,log=13": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 180
+    },
+    "facing=south,log=14": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 180
+    },
+    "facing=south,log=15": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 180
+    },
+    "facing=west,log=0": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 270
+    },
+    "facing=west,log=1": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 270
+    },
+    "facing=west,log=2": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 270
+    },
+    "facing=west,log=3": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 270
+    },
+    "facing=west,log=4": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 270
+    },
+    "facing=west,log=5": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 270
+    },
+    "facing=west,log=6": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 270
+    },
+    "facing=west,log=7": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 270
+    },
+    "facing=west,log=8": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 270
+    },
+    "facing=west,log=9": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 270
+    },
+    "facing=west,log=10": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 270
+    },
+    "facing=west,log=11": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 270
+    },
+    "facing=west,log=12": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 270
+    },
+    "facing=west,log=13": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 270
+    },
+    "facing=west,log=14": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 270
+    },
+    "facing=west,log=15": {
+      "model": "thelastplayer:block/archive_terminal",
+      "y": 270
+    }
+  }
+}
