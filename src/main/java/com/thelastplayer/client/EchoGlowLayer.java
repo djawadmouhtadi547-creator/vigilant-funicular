@@ -48,6 +48,6 @@ public class EchoGlowLayer extends LayerRenderer<EchoEntity, EchoModel> {
                 break;
         }
         IVertexBuilder vb = buffers.getBuffer(RenderType.eyes(GLOW));
-        this.getParentModel().renderToBuffer(ms, vb, LightTexture.FULL_BRIGHT, OverlayTexture.NO_OVERLAY, r * a, g * a, b * a, 1.0F);
+        this.getParentModel().renderToBuffer(ms, vb, 15728880, OverlayTexture.NO_OVERLAY, r * a, g * a, b * a, 1.0F);
     }
 }
